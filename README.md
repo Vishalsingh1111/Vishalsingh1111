@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">A passionate Coder and Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalsingh1111&label=Profile%20views&color=0e75b6&style=flat" alt="vishalsingh1111" /> </p>
-
 - 🌱 I’m currently learning **DSA & WEB-D**
 
 - 📫 How to reach me **vishalsingh21575@gmail.com**
