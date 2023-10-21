@@ -82,6 +82,11 @@
   </a>
 </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsingh1111&show_icons=true&locale=en&layout=compact" alt="vishalsingh1111" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalsingh1111&show_icons=true&locale=en" alt="vishalsingh1111" /></p>
+
+
 <h3 align="center">Tracking Progress</h3>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh1111&" alt="vishalsingh1111" />
