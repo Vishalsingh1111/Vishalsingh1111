@@ -11,10 +11,10 @@
 🚀 Keep an eye on my contributions, and join me in the journey of creating innovative solutions and leaving a lasting impact on the tech world. 🌟</p>
 
 <div align="center">
-  <a style="margin: 100;" href="https://twitter.com/vishal2152" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishal2152" height="30" width="40"></a>
-  <a style="margin: 100;" href="https://linkedin.com/in/vishal-kumar-singh-b69587224/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-kumar-singh-b69587224/" height="30" width="40" style="margin: 10;"></a>
-  <a href="https://fb.com/profile.php?id=60030108052403" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=60030108052403" height="30" width="40" style="margin: 10;"></a>
-  <a href="https://instagram.com/vishal215_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal215_" height="30" width="40" style="margin: 10;"></a>
+  <a href="https://twitter.com/vishal2152" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishal2152" height="30" width="40"></a>
+  <a href="https://linkedin.com/in/vishal-kumar-singh-b69587224/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-kumar-singh-b69587224/" height="30" width="40" style="margin: 10;"></a>
+  <a href="https://fb.com/profile.php?id=60030108052403" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=60030108052403" height="30" width="40" ></a>
+  <a href="https://instagram.com/vishal215_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal215_" height="30" width="40" ></a>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
