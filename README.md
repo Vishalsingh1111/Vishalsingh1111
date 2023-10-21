@@ -19,7 +19,7 @@
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
-<div align="center">
+<div align="left">
   <h4 align="left">Programming Languages:</h4>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60" style="margin: 20;">
