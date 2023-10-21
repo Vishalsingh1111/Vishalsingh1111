@@ -20,7 +20,7 @@
 <h3 align="left">Hacktoberfest 2023</h3>
 <p align="left">
     <a href="https://www.holopin.io/@vishalsingh1111#" target="_blank">
-        <img src="https://holopin.me/vishalsingh1111" alt="Hacktoberfest 2023" width="950">
+        <img src="https://holopin.me/vishalsingh1111" alt="Hacktoberfest 2023" width="1000">
     </a>
 </p>
 
