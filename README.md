@@ -55,14 +55,14 @@
   </a>
 </div>
 
-<h3 align="center">Hacktoberfest 2023</h3>
+<h3 align="center">Contributed to Hacktoberfest 2023</h3>
 <div align="center">
   <a href="https://www.holopin.io/@vishalsingh1111#" target="_blank">
     <img src="https://holopin.me/vishalsingh1111" alt="Hacktoberfest 2023" width="900">
   </a>
 </div>
 
-<h3 align="center">Progress</h3>
+<h3 align="center">Tracking Progress</h3>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh1111&" alt="vishalsingh1111" />
 </div>
