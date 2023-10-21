@@ -10,6 +10,7 @@
 
 🚀 Keep an eye on my contributions, and join me in the journey of creating innovative solutions and leaving a lasting impact on the tech world. 🌟</p>
 
+<h3 align="center">Way to Connect with Me:</h3>
 <div align="center">
   <a href="https://twitter.com/vishal2152" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishal2152" height="30" width="40"></a>
   <a href="https://linkedin.com/in/vishal-kumar-singh-b69587224/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-kumar-singh-b69587224/" height="30" width="40" style="margin: 10;"></a>
